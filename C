@@ -1,2 +1,0 @@
-C Programming Language
-学习C语言，进行修改
